@@ -231,7 +231,7 @@ Dodgers_pitching_viz <-
   ) +
   labs(
     title = "Past 60 Day Pitching Results",
-    subtitle = "League-wide percentiles over time period<br>",
+    subtitle = "League-wide percentiles over time period",
     caption = "Accessed via {baseballr} | Designed by @adam_bushman", 
     x = "ERA %tile", 
     y = "Innings Pitched %tile"
